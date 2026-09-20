@@ -1,0 +1,14 @@
+{
+  "name": "Red Dot Sight",
+  "description": "A simple reflex sight with a single red-dot reticle. Improves aim speed with minimal zoom.",
+  "image": "ipfs://<IMAGE_CID>/red_dot.png",
+  "external_url": "https://yourgame.com/attachments/red-dot",
+  "attributes": [
+    { "trait_type": "Category", "value": "Attachment" },
+    { "trait_type": "Attachment Type", "value": "Optic" },
+    { "trait_type": "Zoom", "value": "1.0x" },
+    { "trait_type": "ADS Speed Modifier", "value": "+5%" },
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Max Supply", "value": 3000, "display_type": "number" }
+  ]
+}

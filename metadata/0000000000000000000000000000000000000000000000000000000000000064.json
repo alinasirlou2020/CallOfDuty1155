@@ -1,0 +1,12 @@
+{
+  "name": "Standard Magazine",
+  "description": "Standard-capacity magazine compatible with most rifles. No bonuses or drawbacks.",
+  "image": "ipfs://bafybeidrt6dcjo6i6jf6pgxyh37hxqsojjuthwz4ppebfadxm2hdemyytm/standard_mag.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Magazine" },
+    { "trait_type": "Capacity", "value": 30, "display_type": "number" },
+    { "trait_type": "Reload Speed Modifier", "value": "0%" },
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Max Supply", "value": 5000, "display_type": "number" }
+  ]
+}

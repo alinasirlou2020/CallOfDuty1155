@@ -1,0 +1,13 @@
+{
+  "name": "DMR01 Designated Marksman Rifle",
+  "description": "A semi-automatic precision rifle. High damage per shot, effective at long range, lower fire rate.",
+  "image": "ipfs://bafybeifay5zvtjtfg4npx7uycx6xqr5iyggr3ozotrly23rj5epuzoibly/dmr01.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Weapon" },
+    { "trait_type": "Weapon Type", "value": "Designated Marksman Rifle" },
+    { "trait_type": "Damage", "value": 58, "display_type": "number" },
+    { "trait_type": "Fire Rate", "value": 300, "display_type": "number" },
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Max Supply", "value": 500, "display_type": "number" }
+  ]
+}

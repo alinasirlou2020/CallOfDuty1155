@@ -1,0 +1,13 @@
+{
+  "name": "SMG01 Submachine Gun",
+  "description": "A lightweight rapid-fire weapon. High fire rate and mobility, best suited for close-quarters combat.",
+  "image": "ipfs://bafybeihib3getep6inhlzn6jidfib7cdpgffele4cgtn43dfslpvm7vlxe/smg01.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Weapon" },
+    { "trait_type": "Weapon Type", "value": "Submachine Gun" },
+    { "trait_type": "Damage", "value": 22, "display_type": "number" },
+    { "trait_type": "Fire Rate", "value": 950, "display_type": "number" },
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Max Supply", "value": 1000, "display_type": "number" }
+  ]
+}

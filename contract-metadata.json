@@ -1,0 +1,8 @@
+{
+  "name": "Call of Duty Assets",
+  "description": "Official on-chain weapons, magazines and attachments used in-game.",
+  "image": "ipfs://bafybeieixy7kh3ghavo3nmvdvgm3czyr5rr6grgizinqesin4m6qyf2qpa/collection-logo.png",
+  "banner_image": "ipfs://bafybeihkwtkpypsio3wwr7ftkddnxh36hfon6mvdsvhqfch7636kp265i4/collection-banner.png",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0xa103CCB53B200B705485A36F43E6526cAF2df0f5"
+}

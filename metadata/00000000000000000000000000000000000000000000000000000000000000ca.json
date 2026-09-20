@@ -1,0 +1,14 @@
+{
+  "name": "Suppressor",
+  "description": "A muzzle attachment that suppresses gunshot sound and hides the shooter from the minimap, at the cost of reduced damage range.",
+  "image": "ipfs://<IMAGE_CID>/suppressor.png",
+  "external_url": "https://yourgame.com/attachments/suppressor",
+  "attributes": [
+    { "trait_type": "Category", "value": "Attachment" },
+    { "trait_type": "Attachment Type", "value": "Muzzle" },
+    { "trait_type": "Sound Suppression", "value": "High" },
+    { "trait_type": "Damage Range Modifier", "value": "-10%" },
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Max Supply", "value": 2000, "display_type": "number" }
+  ]
+}

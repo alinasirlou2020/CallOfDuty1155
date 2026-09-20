@@ -1,0 +1,14 @@
+{
+  "name": "Holographic Sight",
+  "description": "A holographic sight with a wider field of view than a red dot. Improves target acquisition at close-to-medium range.",
+  "image": "ipfs://<IMAGE_CID>/holographic.png",
+  "external_url": "https://yourgame.com/attachments/holographic",
+  "attributes": [
+    { "trait_type": "Category", "value": "Attachment" },
+    { "trait_type": "Attachment Type", "value": "Optic" },
+    { "trait_type": "Zoom", "value": "1.5x" },
+    { "trait_type": "ADS Speed Modifier", "value": "+8%" },
+    { "trait_type": "Rarity", "value": "Uncommon" },
+    { "trait_type": "Max Supply", "value": 2000, "display_type": "number" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AR01 Assault Rifle",
+  "description": "A standard-issue automatic rifle. Balanced damage and fire rate, effective at medium range.",
+  "image": "ipfs://bafybeiaruiyuxclsnqsvu2hvmdidfao764usxudeweelgldk7dhce7kq5u/ar01.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Weapon" },
+    { "trait_type": "Weapon Type", "value": "Assault Rifle" },
+    { "trait_type": "Damage", "value": 34, "display_type": "number" },
+    { "trait_type": "Fire Rate", "value": 750, "display_type": "number" },
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Max Supply", "value": 1000, "display_type": "number" }
+  ]
+}

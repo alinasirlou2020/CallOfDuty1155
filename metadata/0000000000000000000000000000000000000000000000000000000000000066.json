@@ -1,0 +1,13 @@
+{
+  "name": "Drum Magazine",
+  "description": "Very high-capacity drum magazine. Maximizes ammo count at the cost of a much slower reload and reduced mobility.",
+  "image": "ipfs://<IMAGE_CID>/drum_mag.png",
+  "external_url": "https://yourgame.com/magazines/drum-mag",
+  "attributes": [
+    { "trait_type": "Category", "value": "Magazine" },
+    { "trait_type": "Capacity", "value": 75, "display_type": "number" },
+    { "trait_type": "Reload Speed Modifier", "value": "-30%" },
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Max Supply", "value": 2000, "display_type": "number" }
+  ]
+}

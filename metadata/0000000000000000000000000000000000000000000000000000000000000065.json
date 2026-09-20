@@ -1,0 +1,13 @@
+{
+  "name": "Extended Magazine",
+  "description": "Increased-capacity magazine. Holds more rounds at the cost of a slightly slower reload.",
+  "image": "ipfs://<IMAGE_CID>/extended_mag.png",
+  "external_url": "https://yourgame.com/magazines/extended-mag",
+  "attributes": [
+    { "trait_type": "Category", "value": "Magazine" },
+    { "trait_type": "Capacity", "value": 45, "display_type": "number" },
+    { "trait_type": "Reload Speed Modifier", "value": "-10%" },
+    { "trait_type": "Rarity", "value": "Uncommon" },
+    { "trait_type": "Max Supply", "value": 3000, "display_type": "number" }
+  ]
+}
