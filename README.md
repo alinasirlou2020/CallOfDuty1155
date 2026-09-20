@@ -15,6 +15,10 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/Call Of Duty banner.png" alt="Logo" width="700">
+</p>
+
 ## 📖 About
 
 `CallOfDuty1155` is a multi-token **ERC1155** contract that manages in-game assets — weapons, magazines, and attachments — entirely on-chain. Each asset has its own hard-capped max supply, access is controlled through a role-based system, and the contract implements the industry-standard royalty interface.
